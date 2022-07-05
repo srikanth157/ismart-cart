@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ismart-cart/static/css/main.e9c8f168.css",
-    "main.js": "/ismart-cart/static/js/main.1a0c428c.js",
+    "main.js": "/ismart-cart/static/js/main.25072894.js",
     "index.html": "/ismart-cart/index.html",
     "main.e9c8f168.css.map": "/ismart-cart/static/css/main.e9c8f168.css.map",
-    "main.1a0c428c.js.map": "/ismart-cart/static/js/main.1a0c428c.js.map"
+    "main.25072894.js.map": "/ismart-cart/static/js/main.25072894.js.map"
   },
   "entrypoints": [
     "static/css/main.e9c8f168.css",
-    "static/js/main.1a0c428c.js"
+    "static/js/main.25072894.js"
   ]
 }
